@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "https://rijaya273.@github.io"
 languageCode = "en-us"
 title = "My Portfolio Website"
 theme = "hugo-lodi-theme"
