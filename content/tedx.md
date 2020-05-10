@@ -22,7 +22,6 @@ testimonial: "The partnership with UX Society was nothing short of amazing. Thro
 testimonial_photo: "nate.jpg"
 testimonial_author: "Nathaniel Benedicto"
 testimonial_subtitle: "Associate Vice President for Events, Ateneo Junior Marketing Association"
-date: 2017-10-15T03:29:08-07:00
 draft: false
 ---
 
@@ -48,7 +47,7 @@ After doing interviews with the main stakeholders of the project. I was able to 
 ![](//localhost:1313/tedx/img/moodboard.jpg)
 
 I asked the team I'm working with to come up with a moodboard to establish the visual language we want to use for the project.
-            
+
 # Design Decisions
 
 Since the TEDxADMU team has yet to finalize the complete details of the 2017 event, I recommended a three-phase release for the project.
