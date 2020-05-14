@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rijaya273.github.io/publicsecure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rijaya273.github.io/enmood/</loc>
+  </url>
+  
+  <url>
     <loc>https://rijaya273.github.io/categories/</loc>
     <priority>0</priority>
   </url>
