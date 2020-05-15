@@ -534,7 +534,7 @@ section {
 }
 
 .content-case-study a {
-  color: #574cdd;
+  color: #FFC5BB;
   text-decoration: underline;
 }
 
@@ -729,6 +729,11 @@ section {
     font-size: 18px;
   }
 
+  .life{
+
+    width: 15%;
+    margin-left: 0;
+  }
 }
 
 @media all and (max-width:740px) {
@@ -776,4 +781,57 @@ section {
       -ms-flex-pack: start;
           justify-content: start;
 
+}
+
+.icon{
+margin-bottom: 5%;
+width: 100%
+
+
+}
+.life:hover{
+  cursor: pointer;
+  -webkit-transform: translateY(-3px);
+          transform: translateY(-3px);
+
+}
+.life{
+  transition: 0.2s ease-in;
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  margin: 5%;
+  margin-left: 8%;
+}
+
+.group{
+  font-size: 16px;
+  color: #777777;
+  text-align: center;
+
+}
+
+.footer{
+  font-family: SF_Pro_Display, serif;
+  font-weight: bolder;
+  margin: 0;
+  font-size: 32px;
+  color: #4D4D4D;
+  line-height: 60px;
+  margin-top:8%;
+
+}
+
+
+.message{
+  color: #FFC5BB;
+}
+
+@media all and (max-width:980px) {
+
+  .life{
+
+    width: 18%;
+
+  }
 }
