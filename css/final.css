@@ -785,7 +785,8 @@ section {
 
 .icon{
 margin-bottom: 5%;
-width: 100%
+width: 100%;
+opacity: 0.8;
 
 
 }
