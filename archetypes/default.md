@@ -37,7 +37,7 @@ case_summary: "Cope is an application that helps users track their mental health
 team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
 
 # Roles of your team members
-roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
+skills: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
 
 # Methods your team members used
 methods: ["Sketching", "Mockups", "Guerilla Testing"]

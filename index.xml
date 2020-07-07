@@ -11,21 +11,16 @@
     
     
     <item>
-      <title>Public Secure: Single Sign-On</title>
+      <title>Public Secure</title>
       <link>https://rijaya273.github.io/publicsecure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rijaya273.github.io/publicsecure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EnMood</title>
-      <link>https://rijaya273.github.io/enmood/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijaya273.github.io/enmood/</guid>
-      <description></description>
+      <description>Understanding establishing context 
+13 stakeholders were interviewed, which were all different program areas that have the potential to implement better single sign-on.
+12 end users from the general public were interviewed.
+Stakeholders               Key takeaways from analyzing the existing user flows:
+ login frustrations stem from confusing onboarding processes &amp;amp; a lack of hierarchy in the presentation of information.</description>
     </item>
     
   </channel>

@@ -51,9 +51,9 @@ a:hover {
 }
 
 footer {
-  padding: 30px 30px 30px 30px;
+  padding: 0px 30px 30px 30px;
   max-width: 1000px;
-  margin: 0 auto;
+  margin: 0;
   display: flex !important;
   justify-content: space-between;
   border-bottom: 1px solid #F0F0F0;
@@ -167,7 +167,6 @@ body {
 
 section {
   padding-top: 70px;
-  padding-bottom: 70px;
   padding-left: 30px;
   padding-right: 30px;
 }
@@ -395,6 +394,7 @@ section {
   display: block;
   margin: 0 auto;
   margin-top: 30px;
+  padding-bottom: 0px;
 }
 
 .results-content {
@@ -446,12 +446,11 @@ section {
 
 .main-case-study .summary {
   /* The objective of thi: */
-  font-family: Roboto;
-  font-weight: 300;
-  font-size: 24px;
-  color: #000000;
-  letter-spacing: 0;
-  line-height: 39px;
+  font-family: SF_Pro_Display, serif;
+  font-weight: 100;
+  font-size: 21px;
+  color: #4D4D4D;
+  line-height: 40px;
 }
 
 .case-study-item img {
@@ -462,7 +461,6 @@ section {
   display: flex;
   max-width: 700px;
   list-style-type: none;
-  justify-content: space-between;
   flex-wrap: wrap;
 }
 
@@ -518,16 +516,9 @@ section {
   max-width: 1000px;
   display: block;
   margin: 0 auto;
+
 }
 
-.content-case-study p {
-  /* Each member of our t: */
-  font-family: Roboto;
-  font-size: 19px;
-  color: #676767;
-  letter-spacing: 0;
-  line-height: 30px;
-}
 
 .content-case-study img {
   max-width: 100%;
@@ -548,11 +539,11 @@ section {
   border-right-style: solid;
   border-right-color: #E0E0E0;
   border-right-width: medium;
-  width: 33.33%;
+  width: 30%;
   text-align: center;
 }
 
-@media all and (max-width: 513px) {
+@media all and (max-width: 613px) {
   .case-details {
     justify-content: flex-start;
   }
@@ -633,7 +624,6 @@ section {
   }
   section {
     padding-top: 60px !important;
-    padding-bottom: 60px !important;
   }
   #scroll-element {
     padding-top: 100px !important;
@@ -684,7 +674,8 @@ section {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   max-width: 1000px;
-  margin-top: 5%;
+  margin-bottom: 3%;
+  margin-top: 2%;
 
 }
 
@@ -820,7 +811,7 @@ opacity: 0.8;
   font-size: 32px;
   color: #4D4D4D;
   line-height: 60px;
-  margin-top:8%;
+  margin-bottom: 100px;
 
 }
 
@@ -837,3 +828,99 @@ opacity: 0.8;
 
   }
 }
+
+figure {
+  max-width: 28%;
+  margin: 0em;
+  float: left;
+  position: relative;
+  cursor: pointer;
+  transition: all 500ms;
+}
+
+/*
+.play{
+    transition: all 500ms;
+    z-index: 9999;
+}
+.play:hover {
+  transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport)
+  transition: all 500ms;
+} */
+
+.highlight{
+   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #FCD9D2 50%);
+}
+
+.bluehighlight{
+   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #D6EBE8 50%);
+}
+
+.image-row{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3%;
+}
+
+h3{
+  font-family: SF_Pro_Display, serif;
+  font-weight: bolder;
+  margin: 0;
+  /*margin-top: 2em;*/
+  font-size: 36px;
+  color: #4D4D4D;
+  letter-spacing: 0;
+  line-height: 1.2em;
+}
+
+h4{
+  margin-bottom: 24em;
+  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #FCD9D2 50%);
+  display: inline;
+  font-family: SF_Pro_Display, serif;
+  font-weight: bolder;
+  font-size: 21px;
+  color: #4D4D4D;
+  letter-spacing: 0;
+  line-height: 0.4em;
+}
+
+h5{
+  display: flex;
+  font-family: SF_Pro_Display, serif;
+  font-weight: bolder;
+  font-size: 21px;
+  color: #4D4D4D;
+  letter-spacing: 0;
+  line-height: 0.4em;
+  margin-bottom: 0px;
+}
+
+p{
+  font-family: SF_Pro_Display, serif;
+  font-weight: 100;
+  font-size: 18px;
+  color: #4D4D4D;
+  line-height: 40px;
+}
+
+li{
+  font-family: SF_Pro_Display, serif;
+  font-weight: 100;
+  font-size: 18px;
+  color: #4D4D4D;
+  line-height: 32px;
+}
+
+hr{
+  margin: 40px 0px 40px 0px;
+  color: #4D4D4D;
+  opacity: 0.4;
+}
+
+#nopad{
+  padding-top: 0px !important ;
+}
+
+img[alt=proto] { width: 60%; margin-top: -12px;padding-top: 0px;}
+img[alt=icon] { width: 24%; margin-right: 12px;}
