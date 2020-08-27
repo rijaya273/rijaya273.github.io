@@ -42,6 +42,7 @@ a {
 a:hover {
   cursor: pointer;
   -webkit-transform: translateY(-3px);
+  -moz-transform: translateY(-3px);
           transform: translateY(-3px);
 
 }
@@ -83,7 +84,6 @@ body {
   height: 68px;
   padding: 0;
   margin: 0;
-  position: absolute;
 
   display: -webkit-box;
   display: -ms-flexbox;
@@ -200,7 +200,6 @@ section {
   max-width: 1000px;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex;
   margin: 0 auto;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -525,9 +524,14 @@ section {
   margin-top: 20px;
 }
 
+
 .content-case-study a {
-  color: #FFC5BB;
-  text-decoration: underline;
+  color: #4D4D4D;
+}
+
+.content-case-study a:hover{
+  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #FCD9D2 50%);
+
 }
 
 .content-case-study h1 {
@@ -757,7 +761,6 @@ section {
   z-index: 999;
   width: 100%;
   background: white;
-  height: 68px;
   padding: 0;
   margin: 0;
   margin-left: 2%;
@@ -783,11 +786,13 @@ opacity: 0.8;
 
 }
 .life:hover{
-  cursor: pointer;
+  /*cursor: pointer;*/
   -webkit-transform: translateY(-3px);
+  -moz-transform: translateY(-3px);
           transform: translateY(-3px);
 
 }
+
 .life{
   transition: 0.2s ease-in;
   display: inline-block;
@@ -803,6 +808,7 @@ opacity: 0.8;
   text-align: center;
 
 }
+
 
 .footer{
   font-family: SF_Pro_Display, serif;
@@ -882,7 +888,7 @@ h4{
   font-size: 21px;
   color: #4D4D4D;
   letter-spacing: 0;
-  line-height: 0.4em;
+  line-height: 1em;
 }
 
 h5{
@@ -900,7 +906,7 @@ p{
   font-family: SF_Pro_Display, serif;
   font-weight: 100;
   font-size: 18px;
-  color: #4D4D4D;
+  color: #4D4D4D !important;
   line-height: 40px;
 }
 
@@ -918,9 +924,29 @@ hr{
   opacity: 0.4;
 }
 
+h6{
+  font-family: SF_Pro_Display, serif;
+  font-weight: 100;
+  font-size: 16px;
+  color: #4D4D4D;
+  line-height: 20px;
+  padding: 0% 10% 0% 0%;
+}
+
 #nopad{
   padding-top: 0px !important ;
 }
 
+.shadow{
+  -webkit-box-shadow: 0px 32px 65px -22px rgba(0,0,0,0.14);
+  -moz-box-shadow: 0px 32px 65px -22px rgba(0,0,0,0.14);
+  box-shadow: 0px 32px 65px -22px rgba(0,0,0,0.14);
+}
+
+.callout{
+  text-align: center;
+}
+
 img[alt=proto] { width: 60%; margin-top: -12px;padding-top: 0px;}
 img[alt=icon] { width: 24%; margin-right: 12px;}
+img[alt=image_text] { width: 80%;}
