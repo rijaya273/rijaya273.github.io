@@ -947,6 +947,6 @@ h6{
   text-align: center;
 }
 
-img[alt=proto] { width: 60%; margin-top: -12px;padding-top: 0px;}
+img[alt=proto] { width: 42%; margin-top: -12px; padding-top: 0px;}
 img[alt=icon] { width: 24%; margin-right: 12px;}
 img[alt=image_text] { width: 80%;}
