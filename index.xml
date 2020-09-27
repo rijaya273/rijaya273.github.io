@@ -11,26 +11,22 @@
     
     
     <item>
-      <title>Public Secure</title>
+      <title>exploring single sign-on design</title>
       <link>https://rijaya273.github.io/publicsecure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rijaya273.github.io/publicsecure/</guid>
-      <description>Understanding establishing context Stakeholder insight
-13 stakeholders were interviewed, whom were all members of different program areas that have the potential to implement a better single sign-on system.
-              Key takeaways from analyzing the existing user flows:
- login frustrations stem from confusing onboarding processes and a lack of hierarchy in the presentation of information.</description>
+      <description>-- Understanding establishing context The currently deployed sign-on systems, ONe-key and Public Secure Pilot, have not met the expectations of the Ontario government&amp;rsquo;s program areas, as shown by high call centre volumes and low adoption rates of digital services. From that point of understanding, we then conducted research with program area stakeholders and members of the public to tangibly define existing problems and public expectations respectively.</description>
     </item>
     
     <item>
-      <title>Collective</title>
+      <title>designing for mental health inclusion</title>
       <link>https://rijaya273.github.io/collective/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rijaya273.github.io/collective/</guid>
-      <description>Problem Discovery finding a door to open To begin learning what questions to ask, we started by breaking down the challenge prompt:
-While we looked at other subspaces involving the inclusion of groups with disabilities, we eventually decided on exploring the barriers to inclusion for those with mental health disabilities.
-              Investigation getting a foot in the door Although we were constrained by time and resources, we conducted 7 generative interviews.</description>
+      <description>--                 Problem Discovery finding a door to open To begin learning what questions to ask, we started by breaking down the challenge prompt:
+While we did look at other subspaces involving the inclusion of groups with disabilities, we eventually decided on exploring the barriers to inclusion for those with mental health disabilities after coming across the following, solidifying the problem&amp;rsquo;s existence:</description>
     </item>
     
   </channel>
