@@ -134,13 +134,13 @@ body {
   top: 3px;
   color: #777777;
 }
-
+/*
 @media all and (max-width: 400px) {
   .main-navigation h5 {
     top: 7px;
 
   }
-}
+}*/
 
 
 
@@ -152,6 +152,7 @@ body {
   padding: 4px;
 }
 
+/*
 @media all and (max-width: 460px) {
   .main-navigation-link {
 
@@ -164,7 +165,7 @@ body {
     display: none !important;
   }
 }
-
+*/
 
 
 .logo {
@@ -520,6 +521,7 @@ section {
   margin-right: 1em;
 }
 
+/*
 @media all and (max-width: 981px) {
   .hero-left {
     margin: 0 auto;
@@ -541,7 +543,7 @@ section {
       padding:25px;
       text-align: center;
   }
-}
+}*/
 
 .content-case-study {
   max-width: 1000px;
@@ -575,6 +577,7 @@ section {
   width: 30%;
 }
 
+/*
 @media all and (max-width: 613px) {
   .case-details {
     justify-content: flex-start;
@@ -618,7 +621,7 @@ section {
     margin-top: 0;
   }
 }
-
+/*
 @media all and (max-width:980px) {
   .hero-right {
     width: 100%;
@@ -628,8 +631,8 @@ section {
     max-width: 45%;
   }
 
-}
-
+}*/
+/*
 @media all and (max-width: 728px) {
   .case-study-item {
     max-width: 100%;
@@ -653,7 +656,7 @@ section {
   #scroll-element {
     /*padding-top: 100px !important;*/
   }
-}
+}*/
 
 @media all and (max-width:500px) {
   .things-item {
@@ -770,7 +773,7 @@ section {
   margin-left: 16px;
 }
 
-
+/*
 
 @media all and (max-width:980px) {
 
@@ -787,8 +790,8 @@ section {
     width: 15%;
     margin-left: 0;
   }
-}
-
+}*/
+/*
 @media all and (max-width:740px) {
 
   .card_title{
@@ -812,7 +815,7 @@ section {
   }
 
 }
-
+*/
 .sub-navigation{
 
   z-index: 999;
@@ -875,6 +878,7 @@ width: 250px;
   color: #FFC5BB;
 }
 
+/*
 @media all and (max-width:980px) {
 
   .life{
@@ -883,7 +887,7 @@ width: 250px;
 
   }
 }
-
+*/
 figure {
   max-width: 28%;
   margin: 0em;
