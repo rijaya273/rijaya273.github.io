@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Russell Ijaya</title>
-    <link>rijaya273.github.io/</link>
+    <link>https://rijaya273.github.io/</link>
     <description>Recent content on Russell Ijaya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Oct 2017 03:29:08 -0700</lastBuildDate>
     
-	<atom:link href="rijaya273.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rijaya273.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cope | Alexis Collado</title>
-      <link>rijaya273.github.io/cope/</link>
+      <link>https://rijaya273.github.io/cope/</link>
       <pubDate>Sun, 15 Oct 2017 03:29:08 -0700</pubDate>
       
-      <guid>rijaya273.github.io/cope/</guid>
+      <guid>https://rijaya273.github.io/cope/</guid>
       <description>The Challenge A startup called Cope hired me to create a minimum viable product for their new idea — tracking mental health. It was the first project where I handled mobile app design, and I was very excited to learn the intricacies of the iOS platform.
 My clients John and Kat have done some preliminary interviews with psychologists and psychiatrists to get their side of the picture. They have established a user persona, a business model canvas, and several startup prep work for the product to take off.</description>
     </item>
     
     <item>
       <title>exploring single sign-on design</title>
-      <link>rijaya273.github.io/publicsecure/</link>
+      <link>https://rijaya273.github.io/publicsecure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rijaya273.github.io/publicsecure/</guid>
+      <guid>https://rijaya273.github.io/publicsecure/</guid>
       <description>-- Understanding establishing context The currently deployed sign-on systems, ONe-key and Public Secure Pilot, have not met the expectations of the Ontario government&amp;rsquo;s program areas, as shown by high call centre volumes and low adoption rates of digital services. From that point of understanding, we then conducted research with program area stakeholders and members of the public to tangibly define existing problems and public expectations respectively.</description>
     </item>
     
     <item>
       <title>360 Pro | Alexis Collado</title>
-      <link>rijaya273.github.io/360pro/</link>
+      <link>https://rijaya273.github.io/360pro/</link>
       <pubDate>Sun, 15 Oct 2017 03:29:08 -0700</pubDate>
       
-      <guid>rijaya273.github.io/360pro/</guid>
+      <guid>https://rijaya273.github.io/360pro/</guid>
       <description>The Challenge Meeting with Chappy Callanta of 360 Pro led us to discover the root problem — the implementation of their performance testing framework. The gym uses a Numbers document on one iPad to record all tests, and relies on inefficient manual procedures to do the work. The document calculates a total pro score based on an athlete&amp;rsquo;s performance for specific exercises, but the coach using it has to refer to several norms before assigning a pro score.</description>
     </item>
     
     <item>
       <title>reimagining the renter experience</title>
-      <link>rijaya273.github.io/zumper-redesign/</link>
+      <link>https://rijaya273.github.io/zumper-redesign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rijaya273.github.io/zumper-redesign/</guid>
+      <guid>https://rijaya273.github.io/zumper-redesign/</guid>
       <description>--                Modular listing exploration. Alternate filter visuals. Simplified hierarchy in listing.    Product exploration emphasizing contextual problem solving While the stress, excitement and emotional complexities of finding a place to live in are hard to emulate without first-hand experience, performing a deep dive into listing exploration features and a few too many NYC apartment hunting YouTube videos allowed me to grasp the problem Zumper is trying to solve.</description>
     </item>
     
     <item>
       <title>TEDxADMU | Alexis Collado</title>
-      <link>rijaya273.github.io/tedx/</link>
+      <link>https://rijaya273.github.io/tedx/</link>
       <pubDate>Sun, 15 Oct 2017 03:29:08 -0700</pubDate>
       
-      <guid>rijaya273.github.io/tedx/</guid>
+      <guid>https://rijaya273.github.io/tedx/</guid>
       <description>Context The Ateneo Junior Marketing Association always outsourced their website development to different organizations in the university. This year, they chose User Experience Society, the organization I founded to create a strong digital presence for their flagship event. TEDxADMU is acclaimed among the youth and is marked by the many up and coming trailblazers in the Philippine community.
 The Challenge TEDxADMU always faced the same problems every year. How can we elevate the number of applications we receive?</description>
     </item>
     
     <item>
       <title>designing for mental health inclusion</title>
-      <link>rijaya273.github.io/collective/</link>
+      <link>https://rijaya273.github.io/collective/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rijaya273.github.io/collective/</guid>
+      <guid>https://rijaya273.github.io/collective/</guid>
       <description>--                 Problem Discovery finding a door to open To begin learning what questions to ask, we started by breaking down the challenge prompt:
 While we did look at other subspaces involving the inclusion of groups with disabilities, we eventually decided on exploring the barriers to inclusion for those with mental health disabilities after coming across the following, solidifying the problem&amp;rsquo;s existence:</description>
     </item>
