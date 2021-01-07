@@ -250,7 +250,7 @@ section {
 }
 
 .hero-left {
-  width: 400px;
+  width: 1000px;
   margin-top: 28px;
 }
 
@@ -816,6 +816,9 @@ section {
 
 }
 */
+
+
+
 .sub-navigation{
 
   z-index: 999;
@@ -861,6 +864,12 @@ width: 250px;
   margin-top: 2%;
 }
 
+@media all and (max-width:720px) {
+  .life{
+
+      display: block;
+}
+}
 
 .footer{
   font-family: SF_Pro_Display, serif;
